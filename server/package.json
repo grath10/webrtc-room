@@ -1,0 +1,27 @@
+{
+  "name": "webrtc-room",
+  "version": "1.0.0",
+  "description": "multiple users communication among",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grath10/webrtc-room.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grath10/webrtc-room/issues"
+  },
+  "homepage": "https://github.com/grath10/webrtc-room#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
