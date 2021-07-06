@@ -22,6 +22,6 @@
   "homepage": "https://github.com/grath10/webrtc-room#readme",
   "dependencies": {
     "https": "^1.0.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
